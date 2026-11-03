@@ -29,8 +29,8 @@ Trabaja con tarea, objetivos, criterios y escala acordados por el docente. Usa d
 1. Relaciona criterios con los resultados de aprendizaje que la tarea permite observar.
 2. Separa dimensiones que puedan evaluarse independientemente.
 3. Describe niveles mediante evidencias del trabajo, evitando adjetivos vagos.
-4. Aplica ponderaciones solo si están acordadas y verifica la suma y escala.
-5. Ensaya la rúbrica con un ejemplo anonimizado y registra ambigüedades antes de usarla.
+4. Aplica ponderaciones solo si están acordadas y verifica la suma y escala. Si no cuadran, conserva los pesos propuestos como pendientes; no los normalices ni redistribuyas silenciosamente.
+5. Ensaya la rúbrica con un ejemplo anonimizado y registra ambigüedades antes de usarla. Si falta un ejemplo adecuado, declara pendiente la calibración.
 
 ## Comprobación del resultado
 
